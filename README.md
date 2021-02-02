@@ -1,3 +1,3 @@
 # Data_visualization
 
-This project explains the basic of data visualization and applying it in real world. 
+This project explains the basics of data visualization and applying it in real world. 
